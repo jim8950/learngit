@@ -1,1 +1,3 @@
-learn github remote
+learn github remote  2019
+git checkout -b dev
+git branch
