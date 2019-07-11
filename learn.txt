@@ -1,3 +1,5 @@
 learn github remote  2019
 git checkout -b dev
 git branch
+new branch
+master change
